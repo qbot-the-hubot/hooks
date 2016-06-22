@@ -1,2 +1,2 @@
 # hooks
-a dummy repository for practicing hook related goodies
+Just a simple repository for use while working on github api hooks.
