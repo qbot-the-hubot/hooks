@@ -1,0 +1,22 @@
+{
+  "name": "hooks",
+  "version": "1.0.1",
+  "description": "testing github api stuff",
+  "scripts": {
+    "test": "npm i && ./node_modules/.bin/mocha --reporter \"json-stream\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbot-the-hubot/hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbot-the-hubot/hooks/issues"
+  },
+  "homepage": "https://github.com/qbot-the-hubot/hooks#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.5.3"
+  }
+}
